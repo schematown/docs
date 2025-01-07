@@ -17,8 +17,8 @@ export default defineConfig({
     },
     nav: [
       { text: "Getting Started", link: "/getting-started/creating-an-account" },
-      { text: "API Reference", link: "/api-reference/openapi-reference" },
       { text: "Examples", link: "/examples/making-an-api-request" },
+      { text: "OpenAPI Reference", link: "/openapi-reference" },
     ],
 
     sidebar: [
