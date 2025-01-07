@@ -1,0 +1,7 @@
+dist
+public
+pnpm-lock.yaml
+.turbo
+
+.vitepress/cache
+.vitepress/dist

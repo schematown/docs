@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16.286173mm"
+   height="16.286173mm"
+   viewBox="0 0 16.286173 16.286173"
+   version="1.1"
+   id="svg5661"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="light-logo-sm.svg"
+   inkscape:export-filename="light-logo-sm.jpg"
+   inkscape:export-xdpi="569.70789"
+   inkscape:export-ydpi="569.70789"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview5663"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.587745"
+     inkscape:cx="20.86759"
+     inkscape:cy="46.952077"
+     inkscape:window-width="1452"
+     inkscape:window-height="1233"
+     inkscape:window-x="1690"
+     inkscape:window-y="637"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs5658" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-47.252253,-114.01084)">
+    <rect
+       style="font-size:42.6667px;font-family:'Badeen Display';-inkscape-font-specification:'Badeen Display';white-space:pre;shape-inside:url(#rect236-5);display:inline;fill:#322659;fill-opacity:1;stroke-width:0.250492;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12"
+       id="rect456"
+       width="16.286173"
+       height="16.286173"
+       x="-63.538425"
+       y="-130.29701"
+       transform="scale(-1)" />
+    <g
+       id="g13857"
+       transform="matrix(0.26458333,0,0,0.26458333,16.898945,59.305241)"
+       style="font-size:42.6667px;font-family:'Badeen Display';-inkscape-font-specification:'Badeen Display';white-space:pre;shape-inside:url(#rect236-5);display:inline;fill:#fff8f0;fill-opacity:1;stroke-width:1.9578;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:12">
+      <path
+         d="m 136.32484,252.08769 q -4.13867,0 -6.78401,-1.792 -2.64533,-1.792 -3.2,-5.12 l 4.94934,-1.28 q 0.29866,1.49333 0.98133,2.34666 0.72533,0.85334 1.74934,1.23734 1.06666,0.34133 2.304,0.34133 1.87733,0 2.77333,-0.64 0.896,-0.68267 0.896,-1.664 0,-0.98133 -0.85333,-1.49333 -0.85333,-0.55467 -2.73067,-0.89601 l -1.19467,-0.21333 q -2.21867,-0.42667 -4.05333,-1.152 -1.83467,-0.768 -2.94401,-2.09067 -1.10933,-1.32267 -1.10933,-3.41333 0,-3.15734 2.304,-4.82134 2.304,-1.70667 6.05867,-1.70667 3.54134,0 5.88801,1.57867 2.34667,1.57867 3.072,4.13867 l -4.992,1.536 q -0.34134,-1.62133 -1.40801,-2.304 -1.024,-0.68267 -2.56,-0.68267 -1.536,0 -2.34667,0.55467 -0.81066,0.512 -0.81066,1.45067 0,1.024 0.85333,1.536 0.85334,0.46933 2.304,0.72533 l 1.19467,0.21333 q 2.38934,0.42667 4.30934,1.15201 1.96267,0.68266 3.072,2.00533 1.152,1.28 1.152,3.49867 0,3.328 -2.432,5.16267 -2.38934,1.792 -6.44267,1.792 z"
+         style="font-weight:bold;font-family:'Space Grotesk';-inkscape-font-specification:'Space Grotesk Bold';fill:#fff8f0;fill-opacity:1"
+         id="path398-5" />
+      <path
+         d="m 158.17019,251.49036 q -1.664,0 -2.51733,-0.85334 -0.81067,-0.85333 -0.81067,-2.38933 v -15.18935 h -6.656 v -2.304 h 6.656 V 222.989 h 2.56 v 7.76534 h 7.25334 v 2.304 h -7.25334 v 14.84801 q 0,1.28001 1.28,1.28001 h 4.86401 v 2.304 z"
+         style="font-weight:300;font-family:'Space Grotesk';-inkscape-font-specification:'Space Grotesk Light';fill:#fff8f0;fill-opacity:1"
+         id="path400-6" />
+    </g>
+  </g>
+</svg>

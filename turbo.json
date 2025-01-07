@@ -1,0 +1,17 @@
+{
+  "$schema": "https://turbo.build/schema.json",
+  "globalDependencies": ["**/.env.*local"],
+  "tasks": {
+    "format:check": {},
+    "lint:check": {},
+    "build": {
+      "dependsOn": ["^build"],
+      "outputs": [".vitepress/cache/**", ".vitepress/dist/**"]
+    },
+    "dev": {
+      "dependsOn": ["^build"],
+      "outputs": [".vitepress/cache/**"],
+      "cache": false
+    }
+  }
+}
