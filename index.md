@@ -5,10 +5,7 @@ layout: home
 head:
   - [
       "meta",
-      {
-        property: "og:description",
-        content: "Schema Town is a platform for building and managing APIs.",
-      },
+      { property: "og:description", content: "AI-powered document magic" },
     ]
 
 hero:
