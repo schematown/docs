@@ -7,6 +7,10 @@ head:
       "meta",
       { property: "og:description", content: "AI-powered document magic" },
     ]
+  - [
+      "script",
+      { src: "https://cdn.usefathom.com/script.js", "data-site": "ZRANKCSF" },
+    ]
 
 hero:
   name: Schema Town
