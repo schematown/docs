@@ -5,7 +5,13 @@ export default defineConfig({
   title: "Schema Town Docs",
   description: "Schema Town Docs",
   cleanUrls: true,
-  head: [["link", { rel: "icon", href: "/favicon.ico" }]],
+  head: [
+    ["link", { rel: "icon", href: "/favicon.ico" }],
+    [
+      "script",
+      { src: "https://cdn.usefathom.com/script.js", "data-site": "ZRANKCSF" },
+    ],
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     editLink: {
