@@ -9,7 +9,7 @@ head:
     ]
 
 hero:
-  name: Schema Town
+  name: SchemaTown
   text: AI-powered document magic
   tagline: Fast, easy, and powerful API to resurrect your documents.
   actions:

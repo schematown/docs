@@ -2,8 +2,8 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Schema Town Docs",
-  description: "Schema Town Docs",
+  title: "SchemaTown Docs",
+  description: "SchemaTown Docs",
   cleanUrls: true,
   sitemap: {
     hostname: "https://docs.schema.town",
